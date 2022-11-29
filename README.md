@@ -31,3 +31,6 @@ Make sure to inline your CSS and send test to yourself before sending the email.
 1. Copy all the HTML email
 2. Use it as your email template and send it using marketing email service.
 
+
+## Tested and verified
+I’ve tested these email templates across all the major desktop, web and mobile clients, using Email on Acid.
